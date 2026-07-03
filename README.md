@@ -1,8 +1,14 @@
 <p align="center">
-  <img src="banner-mario.gif" alt="Mario Pixel Art Banner" width="100%">
+  <img src="banner-mario.jpg" alt="Mario Pixel Art Banner" width="100%">
 </p>
 
 # Hi there 👋 I'm Daffa Raditya Anugrah
+
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=40C463&width=435&lines=Data+Science+Student;Mobile+App+Developer;IoT+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 I'm a Data Science student at Politeknik Negeri Malang who loves building cross-platform mobile apps, exploring IoT automations, and diving into data workflows.
 
@@ -38,9 +44,9 @@ I'm a Data Science student at Politeknik Negeri Malang who loves building cross-
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Warteknasional&theme=tokyonight&area=true" alt="Daffa's GitHub Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Warteknasional&theme=github-light&area=true" alt="Daffa's GitHub Activity Graph" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Warteknasional&theme=tokyonight" alt="Daffa's GitHub Summary" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Warteknasional&theme=github_dark" alt="Daffa's GitHub Summary" width="100%">
 </p>
