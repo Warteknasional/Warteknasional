@@ -38,9 +38,9 @@ I'm a Data Science student at Politeknik Negeri Malang who loves building cross-
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daffaradityanugrah&theme=tokyonight&area=true" alt="Daffa's GitHub Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Warteknasional&theme=tokyonight&area=true" alt="Daffa's GitHub Activity Graph" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daffaradityanugrah&theme=tokyonight" alt="Daffa's GitHub Summary" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Warteknasional&theme=tokyonight" alt="Daffa's GitHub Summary" width="100%">
 </p>
