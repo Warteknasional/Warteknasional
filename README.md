@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-mario.jpg" alt="Mario Pixel Art Banner" width="100%">
+  <img src="banner-mario.gif" alt="Mario Pixel Art Banner" width="100%">
 </p>
 
 # Hi there 👋 I'm Daffa Raditya Anugrah
