@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-mario.jpg" alt="Mario Pixel Art Banner" width="100%">
+  <img src="banner-mario.gif" alt="Mario Pixel Art Banner" width="100%">
 </p>
 
 # Hi there 👋 I'm Daffa Raditya Anugrah
@@ -37,7 +37,9 @@ I'm a Data Science student at Politeknik Negeri Malang who loves building cross-
 
 ### 📊 My GitHub Stats
 
+### 📊 My GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Warteknasional&show_icons=true&theme=tokyonight&count_private=true" alt="Daffa's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warteknasional&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=daffaradityanugrah&show_icons=true&theme=tokyonight&count_private=true" alt="Daffa's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaradityanugrah&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
 </p>
