@@ -10,7 +10,7 @@
   </a>
 </p>
 
-I'm a Data Science student at Politeknik Negeri Malang who loves building cross-platform mobile apps, exploring IoT automations, and diving into data workflows.
+I'm a Informatics student at Politeknik Negeri Malang who loves building cross-platform mobile apps, exploring IoT automations, and diving into data workflows.
 
 ---
 
